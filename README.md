@@ -8,4 +8,5 @@
 
 ## Reference
 [모두를 위한 머신러닝/딥러닝](http://hunkim.github.io/ml/)
+
 [파이썬 텐서플로우 & 머신러닝 기초](https://www.youtube.com/watch?v=qxUD7fOseBQ&list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO)
