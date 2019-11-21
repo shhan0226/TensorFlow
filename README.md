@@ -41,8 +41,8 @@ SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\l
 SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include;%PATH% <br>
 
 11. [matplotlib](https://matplotlib.org/) 설치 <br>
-python -m pip install -U pip
-python -m pip install -U matplotlib
+python -m pip install -U pip <br>
+python -m pip install -U matplotlib <br>
 
 ## Reference
 [모두를 위한 머신러닝/딥러닝](http://hunkim.github.io/ml/)
