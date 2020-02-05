@@ -19,8 +19,7 @@ https://www.tensorflow.org/install/source_windows?hl=ko.
 5. pip install --upgrade tensorflow
 pip install --ignore-installed --upgrade tensorflow==1.6.0
 
-6. 실행하기 IDE 켜서 실행해보기
-
+6. 실행하기 IDE 켜서 실행해보기<br>
 import tensorflow as tf  <br>
 hello=tf.constant("Hello World!") <br>
 sess = tf.Session() <br>
