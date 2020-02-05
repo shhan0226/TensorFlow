@@ -17,7 +17,8 @@ https://www.tensorflow.org/install/source_windows?hl=ko.
 4. MS Visual Studio 2015 c++ 패키지 설치
 
 5. pip install --upgrade tensorflow <br>
-pip install --ignore-installed --upgrade tensorflow==1.6.0
+pip install --ignore-installed --upgrade tensorflow==1.6.0 <br>
+https://www.tensorflow.org/install/gpu?hl=ko ==> 여기서 설치 
 
 6. 실행하기 IDE 켜서 실행해보기<br>
 import tensorflow as tf  <br>
