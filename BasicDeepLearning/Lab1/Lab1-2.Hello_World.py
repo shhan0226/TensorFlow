@@ -1,4 +1,6 @@
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 
 # Create a constant op #tf를 불러온다.
 # This op is added as a node to the default graph #constant를 불러온다 .

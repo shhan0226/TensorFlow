@@ -1,4 +1,8 @@
-import tensorflow as tf
+#import tensorflow as tf
+
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
 
 node1 = tf.constant(3.0, tf.float32)
 node2 = tf.constant(4.0) # also tf.float32 implicitly

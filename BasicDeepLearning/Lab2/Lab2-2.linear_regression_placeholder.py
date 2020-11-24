@@ -1,4 +1,8 @@
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
+
 tf.set_random_seed(777)  # for reproducibility
 
 #1. 그래프 구현#
